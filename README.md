@@ -1,5 +1,4 @@
-# GO TO [https://github.com/Codingpedia/codingmarks](https://github.com/Codingpedia/codingmarks)
-It has much more bookmarks and better organised
+# GO NOW TO [https://github.com/CodepediaOrg/bookmarks](https://github.com/CodepediaOrg/bookmarks)
 
 # dev-bookmarks (*CTRL + F* and relevant search tag)
 * [Active Directory](#ad)
